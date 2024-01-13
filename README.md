@@ -1,5 +1,7 @@
 # Packer-Hadoop
 Build Hadoop AMI using Packer
+
+This is a part of [Hadoop-cluster-setup](https://github.com/haquocdat543/Hadoop-cluster-setup)
 # Prerequisites
 * [git](https://git-scm.com/downloads)
 * [awscli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
